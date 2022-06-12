@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.registro{
+    color: white;
+    background-color: darkslategray;
+    width: 30%;
+    padding: 20px;
+    margin: 100px auto;
+    font-size: 20px;
+
+    border-radius: 6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.ingreso_fe{
+    padding: 2px;
+    background-color: #000;
+    color: white;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.ingreso_txt{
+    width: 100%;    
+    padding: 10px;
+
+    background-color: #000;
+    color: white;
+    font-weight: bold;
+
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: 3px solid #233380;
+}
+
+.sumbit{
+    width: 100%;
+    margin: 20px auto;
+    padding: 8px;
+
+    font-size: 20px;
+
+    background-color: #000;
+    color: white;
+}
